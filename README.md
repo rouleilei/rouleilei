@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->    
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/rouleilei/rouleilei/assets/github-contribution-grid-snake.svg" /></div>
+![](https://raw.githubusercontent.com/rouleilei/rouleilei/main/assets/github-contribution-grid-snake.svg)              
